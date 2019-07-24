@@ -15,7 +15,7 @@ the dealer is showing, it then uses the model the model to predict whether the u
   -The model should be given an integer corresponding to the in game value of the card, e.g. king: 10, ace: 1 or 11, 8: 8, etc...
   
  Dependencies:
-  -Tensorflow (Keras aswell)
-  -Pickle
+  -Tensorflow (Keras aswell)\n
+  -Pickle\n
   -Numpy
   -Random
