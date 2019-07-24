@@ -1,4 +1,4 @@
-# Black_Jack_NN
+# Black_Jack_Neural_Network
 
 Basic Neural Network using tensorflow, trained on 900,000 hands of black jack (https://www.kaggle.com/mojocolors/900000-hands-of-blackjack-results)
 
